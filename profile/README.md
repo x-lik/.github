@@ -43,7 +43,7 @@ lack of resources. It also greatly improves runtime performance.
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/w3lik"><img src="https://img.shields.io/badge/GitHub-lik-blue?logo=github" /></a>
+<a href="https://github.com/x-lik"><img src="https://img.shields.io/badge/GitHub-xlik-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQG-476722600-orange?logo=tencentqq" />
 <img src="https://img.shields.io/badge/QQ-854588403-green?logo=tencentqq" />
 </p>
