@@ -44,7 +44,7 @@ lack of resources. It also greatly improves runtime performance.
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/x-lik"><img src="https://img.shields.io/badge/GitHub-xlik-blue?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQG-476722600-orange?logo=tencentqq" />
+<img src="https://img.shields.io/badge/Q群-818513385-orange?logo=tencentqq" />
 <img src="https://img.shields.io/badge/QQ-854588403-green?logo=tencentqq" />
 </p>
 
@@ -52,7 +52,4 @@ lack of resources. It also greatly improves runtime performance.
 
 Thank you so much already for using my projects!
 
-If you want to go a step further and support my open source work,
-Become my fan: <a href='https://afdian.net/a/hunzsig' target='_blank'>afdian</a>
-
-Become a fan and you'll get access to more open source code and tons of resources for making projects!
+If you would like to further support my open source work or become a fan, visit <a href='https://www.hunzsig.com' target='_blank'>hunzsig.com</a> for more information and development updates.
