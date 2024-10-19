@@ -39,7 +39,7 @@
 | effect create[10000]       |  1.034 sec  |  0.137 sec  |    13.2% |    -86.8% |
 | Unit create[2000]          | 11.182 sec  |  2.144 sec  |    19.2% |    -80.8% |
 | Item create[2000]          |  2.336 sec  |  1.525 sec  |    65.3% |    -34.7% |
-| timer[100000*3]            | 14.250 sec  |  0.804 sec  |    5.64% |   -94.36% |
+| timer[100000*3]            | 14.250 sec  |  0.804 sec  |    5.64% |    -94.4% |
 | attr attack modify[100000] |  1.615 sec  |  0.940 sec  |    58.2% |    -41.8% |
 | attr exp modify[100000]    |  8.905 sec  |  1.347 sec  |    15.1% |    -84.9% |
 | missile shoot[150]         | 57.3 frames | 63.4 frames |   110.6% |    +10.6% |
