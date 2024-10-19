@@ -47,6 +47,7 @@
 | missile shoot[500]         | 7.8 frames  | 57.2 frames |   733.3% |   +633.3% |
 | missile shoot[750]         | 2.7 frames  | 55.3 frames |  2048.1% |  +1948.1% |
 | missile shoot[1000]        | 0.5 frames  | 54.1 frames | 10820.0% | +10720.0% |
+| orderRoute touch 50        |  250 units  |  500 units  |   200.0% |   +100.0% |
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
