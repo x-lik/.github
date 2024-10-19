@@ -1,7 +1,5 @@
 ## 👋 Hello !
 
-帮我用英文写200词介绍x-lik版本。它有独特的概念，性能得到巨大的提升，是基于过去lik框架的重新构建，可以在windows平台上运行。它拥有YD、Dz、kk等多种api接口，并拥有独特的完全安全运行环境，保证游戏进行时就不会再出现玩家异步问题。支持最先进的地图热更新。支持最智能的代码混淆加密，甚至支持中文代码混淆。对资源文件、音效处理、UI等多个功能模块进行了革新优化。
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+the+x-lik+framework!;Creating+the+ultimate+lua+warcraft3+maps!" />
