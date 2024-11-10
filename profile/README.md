@@ -46,6 +46,7 @@
 | attr attack modify[100000]   |  1.667 sec  |  1.026 sec  |    61.5% |    -38.5% |
 | attr exp modify[100000]      |  8.905 sec  |  1.347 sec  |    15.1% |    -84.9% |
 | ConvertWorldPosition[100000] |  4.057 sec  |  1.775 sec  |    43.8% |    -56.2% |
+| UI Event register[100000]    |  3.941 sec  |  3.014 sec  |    76.5% |    -23.5% |
 | missile shoot[150]           | 57.3 frames | 63.4 frames |   110.6% |    +10.6% |
 | missile shoot[300]           | 23.1 frames | 62.3 frames |   269.7% |   +169.7% |
 | missile shoot[500]           | 7.8 frames  | 57.2 frames |   733.3% |   +633.3% |
